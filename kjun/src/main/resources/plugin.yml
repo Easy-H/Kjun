@@ -1,0 +1,4 @@
+name: kjun
+version: '1.0-SNAPSHOT'
+main: org.kjun.kjun.Kjun
+api-version: '1.21'
